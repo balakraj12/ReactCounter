@@ -29,7 +29,7 @@
   letter-spacing: 2px;
 }
 
-Counter display
+/* Counter display */
 .counter-display {
   font-size: 72px;
   font-weight: bold;
@@ -109,7 +109,7 @@ Counter display
   transform: translateY(0);
 }
 
-/* Animation
+/* Animation */
 @keyframes slideIn {
   from {
     opacity: 0;
@@ -143,5 +143,5 @@ Counter display
 
   .button-container {
     gap: 10px;
-  } */
+  }
 }
