@@ -5,7 +5,7 @@ function App() {
   
   return (
     <div>
-      Hello
+      <counter />
 
     </div>
     
