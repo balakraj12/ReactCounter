@@ -10,7 +10,7 @@ const counter = () => {
    
     <div className='counter'>
         <p id='counter-value'>you have clicked {count} times</p>
-        <button id='increment-btn' onClick={handleIncrement}>
+        <button id='increment-btn' onClick={ setCount(count + 1) }>
           Increment
         </button>    
       
